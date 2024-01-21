@@ -3,7 +3,7 @@
 某9演示站: https://ai.jiangly.com
 
 ### 服务器推荐
-- [亚洲云 - 高防服务器|服务器租用|福州高防|广东电信|香港服务器|美国服务器|海外服务器 - 国内靠谱的企业级云计算服务提供商](https://www.asiayun.com/)
+- [云服务器](http://aliyun.bolgk.eu.org/)
 
 ### 必要环境
 - nodejs version > 16
@@ -90,6 +90,6 @@ pnpm build
 
 ### 效果图如下
 #### 用户界面
-![用户界面](https://github.com/vpsad/NineAi-ChatGPT-Web-Code-Free/blob/main/nine-user.jpg?raw=true)
+![用户界面](https://githubfast.com/vpsad/NineAi-ChatGPT-Web-Code-Free/blob/main/nine-user.jpg?raw=true)
 #### 管理界面
-![管理界面](https://github.com/vpsad/NineAi-ChatGPT-Web-Code-Free/blob/main/nineadmin.jpg?raw=true)
+![管理界面](https://githubfast.com/vpsad/NineAi-ChatGPT-Web-Code-Free/blob/main/nineadmin.jpg?raw=true)
